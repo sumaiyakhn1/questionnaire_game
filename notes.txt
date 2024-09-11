@@ -1,0 +1,4 @@
+ node .\db\scriptinsertdb.js "question_bank - Sheet1 (2).csv"
+
+ for running and inserting a new question bank file in database
+ 
