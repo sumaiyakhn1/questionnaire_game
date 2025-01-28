@@ -1,0 +1,120 @@
+id,question,a,b,c,d,ans,level
+1,Which of the following declaration is not supported by C language?,String str;,char *str;,float str = 3e2;,Both “String str;” and “float str = 3e2;”,a,e
+2,Which of these computer languages do we use in artificial intelligence?,PROLOG,FORTRAN,COBOL,C,a,e
+3,"In IPv6, what is the length of an address?",32 bits,64 bits,128 bits,256 bits,c,m
+4,Which one of the following is not a real time operating system?,RTLinux,Palm OS,QNX,VxWorks,b,m
+5,What is the maximum length of the filename in DOS?,4,5,8,12,c,m
+6,Which of the following is not a type of computer code?,EDIC,ASCII,BCD,EBCDIC,a,m
+122,Which of the following is not a DDL command?,TRUNCATE,ALTER,CREATE,UPDATE,d,m
+9,Which programming language is used for developing Android apps?,Java,C#,Python,Swift,a,m
+10,Which data structure is used for implementing a Last-In-First-Out (LIFO) behavior?,Queue,Stack,Tree,Linked list,b,m
+11,How many number of pointer (*) does C have against a pointer variable declaration?,7,127,255,No Limits,d,h
+12,Routing is performed by which of the following layers?,Transport layer,data link layer,network layer,session layer,d,e
+26,What is the core of the Linux operating system?,Terminal,Kernel,Command,Shell,b,e
+126,"Which of the following command is used to count the total number of lines, words, and characters contained in a file?",wc,wcount,countw,countwc,a,e
+15,What is the length of the MAC address?,8 bits,16 bits,32 bits,48 bits,d,m
+20,Which device is used to connect different network segments in a computer network?,Repeater,Router,Bridge,Modem,b,h
+21,Which command can be used to view the current IP configuration of a device?,ipconfig,ifconfig,both A and B,netstat,c,m
+23,What is the correct syntax to write an HTML comment?,<!-- Comment -->,# Comment,/* Comment */,//Comment,a,m
+128,The most basic part of any HTML page is?,ASCII Text,Binary Text,Text,Paragraph,a,e
+25,How is black color represented in terms of RGB values?,"RGB(0, 0, 0)","RGB(100, 100, 100)","RGB(100, 100, 0)","RGB(100, 0, 0)",a,e
+13,How can we select an element with a specific ID in CSS?,.,~,#,*,c,h
+32,"If p is an integer pointer with a value 1000, then what will the value of p + 5 be?",1020,1005,1004,1010,a,h
+33,Which of the following is a correct syntax to declare a pointer in C?, int *ptr;,int ptr*;,int ptr&;,int ptr#;,a,m
+41,What is the correct way to write a for loop in C?,for i=0 to 10,for (i = 0; i < 10; i++),for (i = 1; i <= 10; i++),loop i from 1 to 10,b,e
+35,Which operator has the highest precedence in C?,+,*,++,&&,c,m
+36,What is the purpose of the DOCTYPE declaration in HTML?,To link external CSS,To declare the version of HTML,To define a variable in JavaScript,To insert comments,b,m
+37,Which function is used to read a string in C?,fgets(),scanf(),None of the above,All of the above,d,m
+129,What is the purpose of the return statement in C?,To exit from the function.,To transfer control to another function,To pause the execution of the function.,To continue from the last function call.,a,e
+39,Which tag is used for creating hyperlinks in HTML?,<a>,<link>,<href>,<anchor>,a,m
+53,Which of the following is NOT a valid CSS property?,font-size,background-color,color,font-colour,d,m
+34,Which of the following is a block-level HTML element?,<span>,<div>,<a>,<img>,b,h
+42,What is the purpose of the control unit in a CPU?,To perform calculations,To decode and execute instructions,To store data,To control peripheral devices,b,h
+43,Which of the following is used to create a vector in R?,[],vector(),list(),c(),d,e
+66,Which function in R is used to display the structure of an object?,summary(),str(),print(),typeof(),b,m
+45,Which function is used to summarize data in R by groups?,aggregate(),summarize(),group_by(),tapply(),a,m
+46,What does the acronym PNG stand for?,Portable Network Graphics,Print Network Graphics,Pixelated Network Graphics,Portable Negative Graphics,a,h
+47,Which image format supports animation?,BMP,GIFF,TIFF,JPEG,b,m
+48,What type of image format is SVG?,Raster,Vector,Bitmap,Compressed,b,h
+63,Convert the binary number 11001 to decimal:,23,25,24,21,b,e
+50,What is the decimal equivalent of the binary number 10110101?,181,179,183,175,a,h
+51,Which company developed the Java programming language?,Microsoft,IBM,Sun Microsystems,Google,c,e
+52,"In cryptography, which algorithm is known for being asymmetric and is widely used for secure data transmission?",AES,RSA ,SHA-256,MD5,b,h
+40,Which of the following is used for machine learning and data science?,TensorFlow,WordPress,ReactJS,Django,a,h
+54,What type of malware spreads itself without needing human interaction?,Spyware,Worm,Adware,Ransomware,b,m
+55,What kind of malware locks or encrypts a user’s files and demands payment for restoring access?,Spyware,Rootkit,Ransomware,Worm,c,m
+56,Which of the following attacks involves intercepting and possibly altering communications between two parties without their knowledge?,SQL Injection,Brute Force Attack,Man-in-the-Middle Attack,Distributed Denial of Service (DDoS),c,h
+57,Which technique is used in hacking to guess passwords through trial and error by attempting every possible combination?,Social Engineering,Brute Force Attack,Keylogging,Phishing,b,e
+58,What is a “zero-day” attack in cybersecurity?,An attack that occurs after a patch has been issued,An attack that targets a vulnerability before the vendor releases a patch,An attack that takes down the system immediately,A DDoS attack that lasts for 24 hours,b,h
+59,"In a SQL injection attack, what is compromised?",Database integrity,System files,Network bandwidth,User interface design,a,m
+60,Which of the following is NOT an example of social engineering in hacking?,Phishing emails,Vishing (voice phishing),Keylogging,Pretexting,c,e
+61,What device connects multiple devices on a network and forwards data packets between them?,Router,Switch,Hub,Modem,b,m
+62,Which of the following devices is used to connect a computer to the Internet?,Hub,Repeater,Modem,Bridge,c,e
+49,What is the main function of a router?,To amplify signals,To connect two different networks,To filter traffic,To store data,b,m
+64,Which device filters traffic between networks based on predetermined security rules?,Hub,Switch,Firewall,Repeater,c,e
+65,What is the primary purpose of a network bridge?,To connect multiple networks,To divide a network into segments,To connect two or more network segments and filter traffic,To route data packets between different networks,c,e
+44,Which device maintains a record of MAC addresses and forwards frames to the correct destination within a local area network?,Router,Switch,Hub,Bridge,b,h
+67,Which device is primarily used to connect computers within a single local area network (LAN)?,Router,Switch,Firewall,Modem,b,e
+68,What type of network device is used to create a virtual private network (VPN)?,Router,Switch, Access Point,Repeater,a,m
+69,Which of the following protocols is commonly used for managing network devices?,SNMP (Simple Network Management Protocol),HTTP (Hypertext Transfer Protocol),FTP (File Transfer Protocol),SMTP (Simple Mail Transfer Protocol),a,h
+70,What is a primary benefit of using a network switch over a hub?,Switches provide higher speeds,Switches can filter traffic and reduce collisions.,Switches are easier to configure.,Hubs can connect to more devices than switches,b,h
+71,"What does the term ""Big O notation"" represent in computer science?",The maximum size of a data structure,The time complexity of an algorithm,The number of lines of code,The amount of memory used by a program,b,h
+72,What is the purpose of the <head> tag in HTML?,To define the body of the document,To contain metadata and links to stylesheets and scripts,To create a footer for the document,To display headings,b,m
+73,Which of the following is a popular front-end JavaScript framework?,Django,Angular,Ruby on Rails,Flask,b,m
+74,Which of the following is a valid way to include an external JavaScript file in an HTML document?,"<script src=""script.js"">","<script href=""script.js"">","<javascript src=""script.js"">","<script link=""script.js"">",a,e
+75,Which of the following is used to declare a variable in JavaScript?,int,var,let,Both B and C,d,e
+124,What does DHCP stand for?,Dynamic Host Configuration Protocol,Dynamic Host Control Protocol,Domain Host Configuration Protocol,Data Host Control Protocol,a,m
+77,"In version control systems, what does ""commit"" mean?",To delete a file,To save changes to a repository,To share files with other developers,To create a new branch,b,h
+87,What is GitHub primarily used for?,Hosting websites,Version control and collaboration on code,Managing databases,Data visualization,b,e
+79,"What does a ""fork"" on GitHub do?",It creates a copy of a repository under your account.,It merges two branches.,It deletes a repository.,It renames a repository.,a,m
+80,Which of the following is the command to replicate a GitHub repository?,git copy <repository-url>,git pull <repository-url>,git clone <repository-url>,git download <repository-url>,c,h
+81,What is the purpose of the README.md file in a GitHub repository?,To store code files,To provide documentation and information about the project,To manage version control,To list issues,b,e
+82,Which command is used to stage changes for a commit in Git?,git stage,git commit,git add,git push,c,h
+83,"What is a ""pull request"" in GitHub?",A request to delete a branch,A request to merge changes from one branch to another,A request to clone a repository,A request to update the repository,b,m
+94,"What is a ""branch"" in Git?",A copy of the main project,A separate line of development,A backup of the repository,A log of changes made to the repository,b,e
+101,"In Git, what does the command git merge do?",It updates the current branch with changes from the remote repository.,It combines changes from one branch into another.,It creates a new branch.,It deletes a branch.,b,e
+86,What is the file extension for a shell script in Linux?,.sh,.script,.bash,.exe,a,m
+78,What command is used to display the contents of a text file in Linux?,cat,show,open,display,a,e
+88,Which command is used to copy files in Linux?,copy,cp,mv,clone,b,e
+89,What command is used to display the current working directory in Linux?,pwd,currentdir,dir,location,a,e
+90,"What does ""NaN"" stand for in JavaScript?",Not a Number,Number is Null,Not a Numeric,Number Affected by Null,a,e
+91,Which of the following is a correct way to define a variable in JavaScript?,var myVariable,let myVariable;,variable myVariable;,const: myVariable;,b,e
+92,Which method is used to convert a string into an integer in JavaScript?,parseInt(),toInteger(),int(),convertToInt(),a,m
+93,Which of the following is a way to define a function in JavaScript?,function myFunction[] {},function myFunction() {},myFunction() = function {},def myFunction() {},b,m
+94,"What is the purpose of the ""this"" keyword in JavaScript?",Refers to the current function,Refers to the global object,Refers to the object that is currently being executed,Refers to the previous object,c,m
+84,"In Java, which keyword is used to inherit a class?",implements,inherits,extends,derives,c,m
+96,"In C++, what is the purpose of the protected access specifier?",It allows members to be accessed only within the class.,It allows members to be accessed within the class and by derived classes,It allows members to be accessed by any function,It restricts access completely,b,h
+97,Which of the following statements about abstract classes is true?,An abstract class cannot have any method implementations.,An abstract class can be instantiated.,An abstract class can have both abstract and concrete methods.,An abstract class cannot contain data members.,c,h
+98,Which of the following is a characteristic of an abstract class?,It cannot have any constructors.,It can be instantiated directly.,It can have non-abstract methods.,It cannot have data members.,c,m
+107,"In Java, how do you define an interface?",interface MyInterface {},MyInterface {},class MyInterface {},abstract MyInterface {},a,e
+100,Which of the following can be a superclass in Java?,Only classes,Only interfaces,Classes and interfaces,Only abstract classes,c,m
+85,"In Java, if you do not explicitly define a constructor in a class, what happens?",The program will not compile.,A default constructor is automatically provided by the compiler,An exception will be thrown at runtime.,The class cannot be instantiated,b,h
+102,What is the effect of using the final keyword with a class in Java?,The class can be subclassed.,The class cannot be subclassed.,The class cannot have any abstract methods.,The class can only have one instance.,b,h
+114,What type of polymorphism is achieved through method overriding?,Compile-time polymorphism,Run-time polymorphism,Static polymorphism,Dynamic binding,b,m
+104,Which of the following is NOT a characteristic of encapsulation?,Access modifiers control visibility.,Data hiding protects the integrity of the object.,It allows direct access to private members.,It groups related attributes and behaviors.,c,h
+105,Which of the following is an example of compile-time polymorphism?,Method overriding,Operator overloading,Abstract classes,Interface implementation,b,m
+106,"In OOP, what does ""message passing"" mean?",Sending messages between objects using the network.,Calling methods of an object to perform operations.,Transferring data between instances of classes.,Inheriting methods from one class to another.,b,m
+99,Which of the following is NOT a function of an operating system?,Process management,Memory management,Compiling code,Device management,c,m
+108,What is the primary purpose of the process scheduler in an operating system?,To manage memory allocation,To ensure processes are executed in the correct order,To allocate I/O devices to processes,To allocate CPU time to processes,d,m
+109,Which of the following algorithms is considered a non-preemptive scheduling algorithm?,Round Robin,Shortest Job First (SJF),Multilevel Feedback Queue,Priority Scheduling,b,h
+110,"What is the primary disadvantage of the First-Come, First-Served (FCFS) scheduling algorithm?",It is simple to implement,It can lead to high turnaround time,It is fair to all processes.,It minimizes waiting time.,b,h
+120,"In Round Robin scheduling, what is the purpose of the time quantum?",It determines how long a process can run before being preempted,It indicates the maximum number of processes in the queue.,It specifies the total time the CPU can be used,It sets the priority level for each process.,a,m
+112,"What is the ""turnaround time"" in process scheduling?",The total time taken to complete a process.,The time spent waiting in the ready queue.,The time from submission to the first response,The time taken to complete all processes in the queue.,a,m
+113,"What does ""starvation"" mean in the context of process scheduling?",A process is unable to execute due to insufficient CPU time.,A high-priority process continuously preempts low-priority processes.,All processes are executed simultaneously.,A process is stuck in the ready state indefinitely.,d,h
+103,"Which of the following best describes the concept of ""subnetting""?",Combining multiple networks into a single network.,Encrypting data packets for secure transmission.,"Dividing a network into smaller, manageable segments.",Increasing the broadcast domain size.,c,m
+115,Which of the following protocols is used for sending emails?,FTP,SMTP,HTTP,SNMP,b,m
+116,What is the purpose of a subnet mask?,To encrypt data,To identify the network and host portions of an IP address,To assign IP addresses dynamically,To route packets,b,m
+117,What is the main difference between a virus and a worm?,A worm is less harmful than a virus,"A virus spreads through networks, while a worm spreads through email","A virus requires a host program to run, while a worm can run independently",There is no difference; they are the same,c,m
+118,Which of the following is a common method used to secure a wireless network?,Disabling MAC address filtering,Using WEP encryption,Implementing WPA2 encryption,Hiding the SSID,c,h
+119,What is a foreign key in a relational database?,A key that uniquely identifies a record in a table,A key that links two tables together,A key used for encryption,A key that is not used in the database,b,m
+111,Which of the following is NOT a type of JOIN in SQL?,INNER JOIN,OUTER JOIN,CROSS JOIN,LINK JOIN,d,m
+121,Which of the following PHP functions is used to connect to a MySQL database?,mysql_connect(),mysqli_connect(),db_connect(),connect_db(),b,h
+8,"What type of relationship is represented when a student can enroll in many courses, and each course can have many students?",One-to-One,One-to-Many,Many-to-One,Many-to-Many,d,m
+123,"In DBMS, what is normalization?",The process of denormalizing data for performance,The process of organizing data to minimize redundancy,The process of indexing data for faster access,The process of backing up data,b,m
+76,What is a data dictionary?,A file that contains user data,A structure that stores metadata about the database,A backup of the database,A log of all database transactions,b,m
+125,Which of the following protocols is commonly used for secure data transmission over the internet?,HTTP,FTP,SSH,SMTP,c,m
+14,Which of the following types of memory would you expect to be the most power-efficient in a mobile device?,SRAM,DRAM,Flash Memory,ROM,c,m
+127,"In terms of storage capacity and access speed, which of the following sequences is correct?",Cache > RAM > ROM > HDD,RAM > Cache > HDD > ROM,ROM > Cache > RAM > HDD,HDD > RAM > Cache > ROM,d,m
+24,Which type of memory is typically used for firmware updates?,RAM,Flash Memory,Static RAM (SRAM),Dynamic RAM (DRAM),b,m
+38,What is a common misconception about cache memory?,Cache memory is a type of RAM.,Cache memory is always larger than main memory (RAM).,Cache memory reduces the time to access frequently used data.,Cache memory is located physically close to the CPU,b,m
+130,"In a modern CPU, which factor can lead to a performance bottleneck despite having fast cache memory?",Insufficient RAM capacity,High latency in accessing main memory,Poor data locality in programs,All of the above,d,m

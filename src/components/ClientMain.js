@@ -35,14 +35,14 @@ const createtable = async() =>{
 
       <h1 style={{
         fontSize: '4rem',
-        textShadow: '10px 10px 5px rgba(1, 1, 1, 1)',
-        color: '#FFD700'
-      }}>KBC</h1>
+        textShadow: '10px 10px 5px rgba(255, 255, 255, 1)',
+        color: '#5C4033',
+      }}>Kon Banega Coder</h1>
 
         <h1 style={{
         fontSize: '4rem', // Larger font size
-        color: '#FFFFFF', // White text color
-        textShadow: '10px 10px 5px rgba(1, 1, 1, 1)', // Subtle shadow
+        color: '#5C4033', // White text color
+        textShadow: '10px 10px 5px rgba(255, 255, 255, 1)'// Subtle shadow
       }}>Enter Your Username</h1>
         <input
         type="text"

@@ -25,7 +25,7 @@ function App() {
     //     backgroundSize: "cover",
     //     backgroundRepeat: "no-repeat"
     //   }
-    const backgroundImage = 'url("meteor.jpg")';
+    const backgroundImage = 'url("img-5.jpeg")';
     
   return (
       <RecoilRoot>

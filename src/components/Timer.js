@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 export const CountdownTimer = () => {
 
   const buttonStyle = {
-    backgroundColor: 'purple',
+    backgroundColor: '#A6674C',
     color: 'white',
    // padding: '10px 20px',
     fontSize: '10px',
