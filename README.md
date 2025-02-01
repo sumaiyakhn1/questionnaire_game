@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Kon Banega coder Game 🎮  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to **KBC Game**, an interactive quiz game built to test your knowledge while keeping you engaged with fun lifeline features like the **50:50 Lifeline**!  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features ✨  
+- **Engaging Gameplay**: Answer quiz questions in a timed environment.  
+- **50:50 Lifeline**: Eliminate two incorrect answers for a better chance at success.  
+- **Seperate table for each player**: To keep track of every player.
+- **Dynamic Levels**: Levels increase in difficulty to keep you on your toes.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technology Stack 🛠️  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Frontend**:  
+   - **React.js**: Dynamic user interface for seamless gameplay.  
 
-### `npm test`
+2. **Backend**:  
+   - **Node.js**: Handles server-side logic and API requests.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Database**:  
+   - **PostgreSQL**: Stores user data, quiz questions, and scores.  
 
-### `npm run build`
+4. **Additional Tools**:  
+   - **Axios**: For API communication.  
+   - **Express.js**: Backend framework for building APIs.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How to Play 🎮  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Register**:  
+   Begin by entering your name.  
 
-### `npm run eject`
+   ![Login Page](/public/ss1.png)  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. **Start the timer**:  
+   Start the timer and get familiar with environment.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ![Main page](ss2.png)  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. **Answer Questions**:  
+   Select the correct answer within the time limit to score points.  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ![Quiz Gameplay](ss3.png)  
 
-## Learn More
+4. **Use Lifelines**:  
+   Use the **50:50 Lifeline** to eliminate two incorrect options and increase your chances of answering correctly.  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ![50:50 Lifeline](ss4.png)  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Installation 📥  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Prerequisites  
+Ensure you have the following installed:  
+- Node.js  
+- PostgreSQL  
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Steps to Run Locally  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/sumaiyakhn1/coding_game/ 
